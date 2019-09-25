@@ -1,0 +1,9 @@
+.idea/*
+aws_conf/*
+db_conf/*
+**/*.bak
+db_extract_upload.py
+fakermain.py
+utils/db_utils/*
+conf/db_config
+**/__pycache__

@@ -1,4 +1,5 @@
-AWS S3 BUCKET SETUP:  (not necessary for testing)
+
+AWS S3 BUCKET SETUP: 
 create bucket
 create lifecycle rules on bucket:
 Move_to_Glacier:
